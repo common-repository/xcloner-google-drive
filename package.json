@@ -1,0 +1,27 @@
+{
+  "name": "xcloner-google-drive",
+  "version": "1.0.4",
+  "description": "XCloner Google Drive plugin",
+  "main": "xcloner-google-drive.php",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "echo \"Error: no build specified\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watchfulli/XCloner-Google-Drive"
+  },
+  "keywords": [
+    "backup"
+  ],
+  "author": "Watchful.net",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/watchfulli/XCloner-Google-Drive/issues"
+  },
+  "homepage": "https://github.com/watchfulli/XCloner-Google-Drive#readme"
+}
